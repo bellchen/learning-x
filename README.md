@@ -1,5 +1,17 @@
 # Learning-X
 
+<p align="left">
+  <a href="./README.md"><b>English</b></a> ·
+  <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/bellchen/learning-x/stargazers"><img src="https://img.shields.io/github/stars/bellchen/learning-x?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/bellchen/learning-x/network/members"><img src="https://img.shields.io/github/forks/bellchen/learning-x?style=flat-square" alt="Forks"></a>
+  <a href="https://github.com/bellchen/learning-x/issues"><img src="https://img.shields.io/github/issues/bellchen/learning-x?style=flat-square" alt="Issues"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/bellchen/learning-x?style=flat-square" alt="License"></a>
+</p>
+
 > **A Socratic learning facilitation skill that turns "I want to learn X" into operational understanding — plus a tangible artifact you can keep.**
 
 `learning-x` is a subject-agnostic coaching framework for AI assistants (and humans who want to run better learning sessions). Instead of lecturing, it diagnoses where the learner actually stands, introduces concepts one at a time, uses structured A/B/C/D prompts, locks in progress every few turns, challenges correct answers with devil's-advocate follow-ups, and always ends with something the learner has produced.
@@ -92,6 +104,7 @@ Phase 4 — Artifact           Phase 3 — Milestone loop
 learning-x/
 ├── SKILL.md                               # The full skill spec — philosophy, rules, workflow
 ├── README.md                              # (this file) overview for humans browsing the repo
+├── README.zh-CN.md                        # Chinese translation (auto-generated, see below)
 └── references/
     ├── diagnose-playbook.md               # Opening moves: question scripts by topic type
     ├── question-templates.md              # 6 Socratic families (prime / hypothesize / verify / apply / reflect / challenge)
@@ -153,9 +166,15 @@ If you're using it as a human facilitator: read `SKILL.md` once to internalize t
 
 ---
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bellchen/learning-x&type=Date)](https://star-history.com/#bellchen/learning-x&Date)
+
+---
+
 ## License
 
-Unless noted otherwise in individual files, content in this repository is released under the MIT License. See `LICENSE` if present.
+Unless noted otherwise in individual files, content in this repository is released under the MIT License. See [`LICENSE`](./LICENSE) if present.
 
 ---
 
